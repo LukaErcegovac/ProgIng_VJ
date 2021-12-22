@@ -1,0 +1,14 @@
+{
+  "name": "pokusaj2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "romannum.js",
+  "scripts": {
+    "test": "jest --watchAll --detectOpenHandles"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.4.5"
+  }
+}
